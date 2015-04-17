@@ -1,0 +1,14 @@
+1. My reflections is that viewing a differences between two files with a lot of code make it easier whis hilighting lines of code that has been changed. 
+2. I think that quick access to older versions make my life a lot easier because of making mistakes in further work and refreashing consepts
+Compare how study goes
+Refresh the path from tree of decision
+3.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Git is really good to track logical changes
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+I think it's useful when you can make commits to all file, because of multi files have involved in such work more often.  
+5. How can you use the commands git log and git diff to view the history of files?
+I can use giy log to see history of changes and defyne changes on reading my comments and remember to use logically justified commmits.   
+6. How might using version control make you more confident to make changes that could break something?
+It's good to be sure that you have all necessary versions of your program while you working on it because you can get back to older versions without bug
+7. Now that you have your workspace set up, what do you want to try using Git for?
+I want to use git for my father website project
